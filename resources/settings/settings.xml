@@ -1,0 +1,5 @@
+<settings>
+    <setting propertyKey="@Properties.ftpOverride" title="@Strings.FtpTitle" prompt="@Strings.FtpPrompt">
+        <settingConfig type="numeric" min="0" max="600"/>
+    </setting>
+</settings>

@@ -1,0 +1,5 @@
+<strings>
+    <string id="AppName">Giro Pink</string>
+    <string id="FtpTitle">FTP (W) pour zones Zwift</string>
+    <string id="FtpPrompt">0 = utiliser le FTP du profil Garmin (sinon 200 W)</string>
+</strings>

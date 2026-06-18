@@ -1,0 +1,11 @@
+config/
+developer_key.*
+*.pem
+bin/
+
+# IDE / OS
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+Desktop.ini
