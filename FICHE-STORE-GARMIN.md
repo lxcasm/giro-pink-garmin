@@ -128,7 +128,11 @@ Version 1.0.0 - Initial release
 - **Application compagnon** : aucune
 - **Nouveaux appareils auto** : a ton choix (Non = Edge 1040 seulement)
 - **E-mail de contact** : ton e-mail public
-- **URL du code source** : (optionnel, ex. ton depot GitHub)
+- **URL du code source / contact** :
+```
+https://github.com/lxcasm/giro-pink-garmin
+```
+  (les utilisateurs peuvent te contacter via l'onglet **Issues** du depot)
 
 ---
 

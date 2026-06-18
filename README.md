@@ -64,6 +64,11 @@ Le SDK utilisé : `D:\logiciel que cursor a instalée\Garmin-ConnectIQ`.
 - Icône : `py store-assets/generate_icon.py` → `resources/drawables/launcher_icon.png`
 - Aperçu : `py store-assets/generate_preview.py` → `store-assets/apercu-edge1040.png`
 
+## Contact / code source
+
+Dépôt GitHub : https://github.com/lxcasm/giro-pink-garmin
+Pour signaler un bug ou une idée : onglet **Issues** du dépôt.
+
 ## Notes
 
 - Appareil cible : **Edge 1040** uniquement (`manifest.xml`).
